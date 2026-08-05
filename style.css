@@ -308,6 +308,13 @@ section.tight{ padding:40px 0; }
 .board-card a{ color:var(--blue); text-decoration:none; font-weight:600; }
 .board-card a:hover{ text-decoration:underline; }
 
+.board-card h5 {
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin: 6px 0;
+    line-height: 1.3;
+}
+
 .contact-panel{
   display:grid; gap:32px;
   grid-template-columns:1.1fr .9fr;
